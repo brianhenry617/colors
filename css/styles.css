@@ -1,0 +1,17 @@
+.green-background {
+  background-image: url("https://cdn.trendhunterstatic.com/thumbs/top-25-things-that-are-green-happy-st-patricks-day.jpeg");
+}
+
+.yellow-background {
+
+  background-image: url("https://www.thecheesecakefactory.com/assets/images/Menu-Import/CCF_ChocolateHazelnutCrunch.jpg");
+  color: white;
+}
+
+.red-background {
+  background-image: url("https://img.buzzfeed.com/buzzfeed-static/static/2015-07/27/11/enhanced/webdr14/original-11902-1438011715-4.jpg?downsize=715:*&output-format=auto&output-quality=auto");
+}
+
+body{
+  background-color: teal;
+}
